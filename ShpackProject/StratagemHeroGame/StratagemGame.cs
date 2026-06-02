@@ -143,10 +143,10 @@ namespace StratagemHeroGame
                     timePenalty = 3;
                     break;
                 case "JOHN HELLDIVER":
-                    timePerStratagem = 6;
+                    timePerStratagem = 3;
                     roundBonus = 150;
                     scoreMultiplier = 5f;
-                    timePenalty = 3;
+                    timePenalty = 10;
                     break;
                 default:
                     timePerStratagem = 10;
